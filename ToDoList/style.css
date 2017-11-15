@@ -1,0 +1,31 @@
+
+.container {
+	border-radius: 20px;
+	max-width: 600px;
+	/*border: 1px solid #838181;*/
+	box-shadow: .5px .5px 4px 4px rgba(64, 117, 238, .28);
+}
+
+.complete {
+	color: #c7c6c8;
+	text-decoration: line-through;
+}
+
+#taskList {
+	background-color: white;
+	color: black;
+}
+
+#title {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px #3f397d;
+	font-size: 3em;
+}
+
+a {
+	color: #d4d0d0;
+}
+
+i {
+	margin-top: 7px;
+}
